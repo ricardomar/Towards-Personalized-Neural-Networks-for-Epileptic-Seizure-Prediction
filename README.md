@@ -5,6 +5,7 @@
 ## Objectives:
 
 - To develop a software tool that automatically classifies EEG (Electroencephalogram) data in one of four classes: inter-ictal (normal EEG pattern); pre-ictal (two minutes prior to the seizure onset); ictal (the seizure onset); pos-ictal (two minutes subsequent to seizure end). A typical epileptic seizure event is characterized by a cycle of those four stages.
+- This code serves as a supplement to the conference paper [Towards Personalized Neural Networks for Epileptic Seizure Prediction](https://doi.org/10.1007/978-3-540-87559-8_50).
 
 
 ## Outputs:
